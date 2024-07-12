@@ -19,3 +19,12 @@
 ***
 
 * [Timetable Management](timetable-management.md)
+
+## Attendance Tracking and Reports
+
+* [Student Attendance](attendance-tracking-and-reports/student-attendance.md)
+* [Staff Attendance](attendance-tracking-and-reports/staff-attendance.md)
+
+***
+
+* [Admission management](admission-management.md)

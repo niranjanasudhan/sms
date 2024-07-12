@@ -41,3 +41,17 @@ Current Timetable Display: Below the selection menus, you can see the selected c
 Exam timetable
 
 The Exam Timetable View Page displays the schedule of exams for different classes and subjects. This page lets users view, and filter the exam timetable.
+
+<figure><img src=".gitbook/assets/timatable admin1.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/timatable admin2.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/timatable admin3.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/timatable admin4.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/timatable admin5.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/timatable admin6.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/timatable admin7.png" alt=""><figcaption></figcaption></figure>
