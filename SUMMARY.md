@@ -28,3 +28,23 @@
 ***
 
 * [Admission management](admission-management.md)
+
+## Payment
+
+* [Payment Type](payment/payment-type.md)
+* [Fee Type](payment/fee-type.md)
+* [Income](payment/income.md)
+* [Expenses](payment/expenses.md)
+
+***
+
+* [Settings](settings.md)
+
+## Parent Module
+
+* [Parent Dashboard](parent-module/parent-dashboard.md)
+* [Child Profile](parent-module/child-profile.md)
+
+***
+
+* [Child Dashboard](child-dashboard.md)
