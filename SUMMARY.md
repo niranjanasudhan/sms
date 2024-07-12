@@ -13,3 +13,9 @@
 
 * [Students](users/students.md)
 * [Teachers](users/teachers.md)
+* [Parents](users/parents.md)
+* [Staff](users/staff.md)
+
+***
+
+* [Timetable Management](timetable-management.md)

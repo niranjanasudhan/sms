@@ -9,12 +9,6 @@ description: >-
 
 
 
-<div>
+<figure><img src="../.gitbook/assets/teacher1.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../.gitbook/assets/teacher2.png" alt=""><figcaption></figcaption></figure>
