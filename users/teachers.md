@@ -9,6 +9,6 @@ description: >-
 
 
 
-<figure><img src="../.gitbook/assets/teacher1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/teacher1 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/teacher2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/teacher2 (1).png" alt=""><figcaption></figcaption></figure>

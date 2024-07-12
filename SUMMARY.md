@@ -48,3 +48,47 @@
 ***
 
 * [Child Dashboard](child-dashboard.md)
+
+## Users
+
+* [Teachers](users-1/teachers.md)
+* [Staff](users-1/staff.md)
+
+***
+
+* [Leave](leave.md)
+
+## Timetable Management
+
+* [Class Timetable](timetable-management-1/class-timetable.md)
+* [Exam Timetable](timetable-management-1/exam-timetable.md)
+
+***
+
+* [Attendance Tracking and Reports](attendance-tracking-and-reports-1.md)
+* [Home Work](home-work.md)
+* [Fees](fees.md)
+* [Online Resources](online-resources.md)
+* [Gradebook](gradebook.md)
+* [Achievements](achievements.md)
+* [Meeting Links](meeting-links.md)
+* [Library](library.md)
+* [Communication](communication.md)
+* [Settings](settings-1.md)
+
+## Teacher Module
+
+* [Dashboard](teacher-module/dashboard.md)
+
+***
+
+* [Profile](profile.md)
+* [Timetable Management](timetable-management-2.md)
+* [Attendance Tracking and reports](attendance-tracking-and-reports-2.md)
+* [Homework](homework.md)
+* [Student Achievements](student-achievements.md)
+* [Gradebook](gradebook-1.md)
+* [Online Resources](online-resources-1.md)
+* [Meeting Link](meeting-link.md)
+* [Library](library-1.md)
+* [Leaves](leaves.md)

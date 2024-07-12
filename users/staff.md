@@ -9,6 +9,6 @@ description: >-
 
 
 
-<figure><img src="../.gitbook/assets/staff1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/staff1 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/staff2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/staff2 (1).png" alt=""><figcaption></figcaption></figure>
