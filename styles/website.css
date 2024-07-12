@@ -1,0 +1,18 @@
+/* Custom CSS for GitBook */
+body {
+    background-color: #f0f0f0;
+  }
+  
+  .page-0 {
+    background-image: url('../images/Innovation.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+  }
+  
+  .page-0 .book {
+    background: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+  }
+  
