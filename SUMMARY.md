@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Untitled](README.md)
+* [Cover](README.md)
 * [Appendix](appendix.md)
 * [Login](login.md)
 * [Simi Bot](simi-bot.md)
