@@ -16,4 +16,4 @@ layout:
 
 
 
-<figure><img src=".gitbook/assets/Innovation.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Innovation1.jpg" alt=""><figcaption></figcaption></figure>
