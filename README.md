@@ -1,5 +1,10 @@
 ---
+cover: .gitbook/assets/Innovation1.jpg
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: false
   description:
